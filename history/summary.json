@@ -4,19 +4,19 @@
     "url": "https://xdbin.com",
     "icon": "https://icons.duckduckgo.com/ip3/xdbin.com.ico",
     "slug": "xdbin",
-    "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "98.70%",
+    "status": "down",
+    "uptime": "99.85%",
+    "uptimeDay": "98.66%",
     "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 1545,
     "timeDay": 3293,
     "timeWeek": 1915,
     "timeMonth": 1545,
     "timeYear": 1545,
     "dailyMinutesDown": {
-      "2023-12-18": 19,
+      "2023-12-18": 20,
       "2023-12-04": 15
     }
   },
@@ -25,19 +25,19 @@
     "url": "https://park.xdbin.com",
     "icon": "https://icons.duckduckgo.com/ip3/park.xdbin.com.ico",
     "slug": "park-xdbin",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "98.72%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 1716,
-    "timeDay": 4101,
-    "timeWeek": 2177,
-    "timeMonth": 1716,
-    "timeYear": 1716,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "97.85%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 2031,
+    "timeDay": 5159,
+    "timeWeek": 2793,
+    "timeMonth": 2031,
+    "timeYear": 2031,
     "dailyMinutesDown": {
-      "2023-12-18": 18
+      "2023-12-18": 31
     }
   }
 ]
