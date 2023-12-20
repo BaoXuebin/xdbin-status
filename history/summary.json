@@ -4,9 +4,9 @@
     "url": "https://xdbin.com",
     "icon": "https://icons.duckduckgo.com/ip3/xdbin.com.ico",
     "slug": "xdbin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "98.54%",
+    "uptimeDay": "98.50%",
     "uptimeWeek": "99.42%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.72%",
@@ -16,7 +16,7 @@
     "timeMonth": 1805,
     "timeYear": 1805,
     "dailyMinutesDown": {
-      "2023-12-20": 21,
+      "2023-12-20": 22,
       "2023-12-18": 37,
       "2023-12-04": 15
     }
@@ -26,7 +26,7 @@
     "url": "https://park.xdbin.com",
     "icon": "https://icons.duckduckgo.com/ip3/park.xdbin.com.ico",
     "slug": "park-xdbin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
     "uptimeDay": "98.57%",
     "uptimeWeek": "99.61%",
