@@ -25,7 +25,7 @@
     "url": "https://park.xdbin.com",
     "icon": "https://icons.duckduckgo.com/ip3/park.xdbin.com.ico",
     "slug": "park-xdbin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
@@ -37,6 +37,7 @@
     "timeMonth": 2246,
     "timeYear": 2246,
     "dailyMinutesDown": {
+      "2023-12-20": 0,
       "2023-12-18": 18
     }
   }
