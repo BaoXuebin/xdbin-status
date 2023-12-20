@@ -4,19 +4,19 @@
     "url": "https://xdbin.com",
     "icon": "https://icons.duckduckgo.com/ip3/xdbin.com.ico",
     "slug": "xdbin",
-    "status": "up",
-    "uptime": "99.76%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.76%",
+    "status": "down",
+    "uptime": "99.80%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
     "time": 1824,
     "timeDay": 1166,
     "timeWeek": 2423,
     "timeMonth": 1824,
     "timeYear": 1824,
     "dailyMinutesDown": {
-      "2023-12-20": 11,
+      "2023-12-20": 1,
       "2023-12-18": 37,
       "2023-12-04": 15
     }
@@ -26,7 +26,7 @@
     "url": "https://park.xdbin.com",
     "icon": "https://icons.duckduckgo.com/ip3/park.xdbin.com.ico",
     "slug": "park-xdbin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
@@ -38,6 +38,7 @@
     "timeMonth": 2093,
     "timeYear": 2093,
     "dailyMinutesDown": {
+      "2023-12-20": 0,
       "2023-12-18": 18
     }
   }
